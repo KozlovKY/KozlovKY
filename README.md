@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KozlovKY
-- 👀 I’m keen on IT and  
+- 👀 I’m keen on IT and physics
 - 🌱 I’m currently studying at Faculty of Physics, National Research University Higher School of Economics. 
 - 📫 How to reach me:
 -   vk: https://vk.com/kukira
