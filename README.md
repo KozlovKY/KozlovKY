@@ -4,6 +4,7 @@
 - 📫 How to reach me:
 -   vk: https://vk.com/kukira
 -   Telegram: @dedpe
+-   CV: https://github.com/KozlovKY/KozlovKY/blob/main/main.pdf
 
 <!---
 KozlovKY/KozlovKY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
