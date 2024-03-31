@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying at Faculty of Physics, National Research University Higher School of Economics. 
 - 📫 How to reach me:
 -   Telegram: @dedpe
--   CV: https://github.com/KozlovKY/KozlovKY/blob/main/main.pdf
+-   CV: https://github.com/KozlovKY/KozlovKY/blob/main/cv.pdf
 
 <!---
 KozlovKY/KozlovKY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
